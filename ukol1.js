@@ -5,4 +5,4 @@ let b = 15 ;
 
 let soucet = a + b + 100;
 
-console. log(soucet);
+console. log(a ** b);
