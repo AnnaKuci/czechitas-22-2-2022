@@ -1,5 +1,5 @@
 //console.log("pozdrav z ukolu1")
-let a = 5 ;
+/*let a = 5 ;
 let b = 15 ;
 
 
@@ -21,3 +21,11 @@ let dnuVLednu = 31;
 let vysledek = minutVHodine * hodinVeDne * dnuVLednu;
 
 console.log("V lednu je celkem " + vysledek)
+*/
+
+let jmeno = "anna"
+let vek = "30"
+let vaha = "80"
+let vyska = "1.8"
+let vyskaNaDruhou = vyska ** 2)
+console.log(vaha / vyskaNaDruhou)
