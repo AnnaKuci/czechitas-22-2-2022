@@ -20,4 +20,4 @@ let dnuVLednu = 31;
 
 let vysledek = minutVHodine * hodinVeDne * dnuVLednu;
 
-console.log("V lednu je celkem" vysledek "dnu")
+console.log("V lednu je celkem" + vysledek)
