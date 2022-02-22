@@ -24,9 +24,9 @@ console.log("V lednu je celkem " + vysledek)
 */
 
 let jmeno = "anna"
-let vek = "30"
-let vaha = "80"
-let vyska = "1.8"
-let vyskaNaDruhou = vyska * vyska)
-
+let vek = 30;
+let vaha = 80;
+let vyska = 1.8;
+let vyskaNaDruhou = vyska * vyska);
+let BMI = 
 console.log(vaha / vyskaNaDruhou)
