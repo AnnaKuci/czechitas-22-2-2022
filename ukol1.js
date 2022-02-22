@@ -30,4 +30,4 @@ let vyska = 1.8;
 let vyskaNaDruhou = vyska * vyska);
 
 
-console.log(vaha / vyskaNaDruhou)
+console.log(vaha / vyska)
