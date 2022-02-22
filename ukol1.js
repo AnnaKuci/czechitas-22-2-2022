@@ -27,5 +27,6 @@ let jmeno = "anna"
 let vek = "30"
 let vaha = "80"
 let vyska = "1.8"
-let vyskaNaDruhou = vyska ** 2)
+let vyskaNaDruhou = vyska * vyska)
+
 console.log(vaha / vyskaNaDruhou)
