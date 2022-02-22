@@ -23,11 +23,10 @@ let vysledek = minutVHodine * hodinVeDne * dnuVLednu;
 console.log("V lednu je celkem " + vysledek)
 */
 
-let jmeno = "anna"
+let jmeno = "anna";
 let vek = 30;
 let vaha = 80;
 let vyska = 1.8;
-let vyskaNaDruhou = vyska * vyska);
+let bmi = vaha/vyska**2;
 
-
-console.log(vaha / vyska)
+console.log("Jmenuji se " + jmeno + " je mi" + vek + "let a vazim " +  vaha + "kg a merim " + vyska + "m a moje bmi je " + bmi + );
