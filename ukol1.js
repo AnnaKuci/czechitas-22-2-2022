@@ -29,4 +29,4 @@ let vaha = 80;
 let vyska = 1.8;
 let bmi = vaha/vyska**2;
 
-console.log("Jmenuji se " + jmeno + " je mi" + vek + "let a vazim " +  vaha + "kg a merim " + vyska + "m a moje bmi je " + bmi + );
+console.log("Jmenuji se " + jmeno + " je mi" + vek + "let a vazim " +  vaha + "kg a merim " + vyska + "m a moje bmi je " + bmi  );
