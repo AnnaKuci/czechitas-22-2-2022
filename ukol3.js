@@ -4,5 +4,5 @@
 
 let jmeno = prompt("Jake se jmenujes?");
 let vek = Number( prompt("Kolik ti je?") );
-if( vek >= 18, { consol.log("mate pravo ridit")} else { console.log("musite pockat jeste")}
+
 console.log("Vase jmeno je " + jmeno + ",je vam " + vek + " let")

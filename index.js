@@ -11,23 +11,6 @@
 // //console.log("Ahoj svete");
 // import './ukol1';
 
- import './ukol3';
+ import './ukol4';
 
 
-// // === rovna se.  && a zaroven.   || nebo.  ! ne
-// // !== nerovna se
-
-// console.log(1 === 1)
-
-
-let vek = 18;
-
-// // jsi plnolety
-// // nejsi plnolety
-// if ( VYRAZ ) {
-//   // se vykona je kdyz true
-// } else {
-//   //vykona se pokud false
-// }
-
-if (vek>=18) {console.log("super dej si drink" )} else {console.log("nejsi plnolety")} 

@@ -30,3 +30,21 @@ let vyska = 1.8;
 let bmi = vaha/vyska**2;
 
 console.log("Jmenuji se " + jmeno + " je mi" + vek + "let a vazim " +  vaha + "kg a merim " + vyska + "m a moje bmi je " + bmi  );
+
+// // === rovna se.  && a zaroven.   || nebo.  ! ne
+// // !== nerovna se
+
+// console.log(1 === 1)
+
+
+let vek = 18;
+
+// // jsi plnolety
+// // nejsi plnolety
+// if ( VYRAZ ) {
+//   // se vykona je kdyz true
+// } else {
+//   //vykona se pokud false
+// }
+
+if (vek>=18) {console.log("super dej si drink" )} else {console.log("nejsi plnolety")} 
